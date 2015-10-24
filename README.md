@@ -1,6 +1,7 @@
 # 3S - Real 3.000 seconds, can you
 
 ![image](img/Icon-120.png)
+![image](img/Icon-120-free.png)
 
 **3S (Pro or Free) app support. Please use the menu to the right of "Issues" when you have any question.** 
 
