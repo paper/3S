@@ -1,13 +1,13 @@
-# 3S - Funny, Focus, Imagination, Perseverance & Lucky
+# 3S - Real 3.000 seconds, can you
 
 ![image](img/Icon-120.png)
 
-**3S app support. Please use the menu to the right of "Issues" when you have any question.** 
+**3S (Pro or Free) app support. Please use the menu to the right of "Issues" when you have any question.** 
 
-**3S app 技术支持。有任何问题，请使用右边菜单 "Issues" 留言。** 
+**3S (Pro or Free) app 技术支持。有任何问题，请使用右边菜单 "Issues" 留言。** 
 
 **Keywords:**  
-happy, boring, kill time, party, simple, play,race, 有趣, 无聊, 打发时间, 聚会, 玩乐, 简单, 专注, 毅力, 想象力, 竞赛 ,运气
+boring, kill time, party,simple, play,race, focus, 有趣, 无聊, 打发时间, 聚会, 玩乐, 简单, 专注, 毅力, 想象力, 竞赛 ,运气
 
 **Screenshot（截图）:**   
 [Screenshot](./Screenshot.md)
