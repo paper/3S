@@ -1,4 +1,4 @@
-# 3S - Real 3.000 seconds, can you
+# 3S - Real 3.000 seconds, can you?
 
 ![image](img/Icon-120.png)
 ![image](img/Icon-120-free.png)
