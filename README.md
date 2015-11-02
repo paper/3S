@@ -8,8 +8,7 @@
 **3S (Pro or Free) app 技术支持。有任何问题，请使用右边菜单 "Issues" 留言。** 
 
 **Download:**  
-Free: [ 3S - Free - Real 3.000 seconds, can you?](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1050404754&mt=8)
-
+Free: [ 3S - Free - Real 3.000 seconds, can you?](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1050404754&mt=8)  
 Pro: [3S - Pro - Real 3.000 seconds, can you?](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1049638944&mt=8)
 
 **Keywords:**  
@@ -27,7 +26,7 @@ boring, kill time, party,simple, play,race, focus, 有趣, 无聊, 打发时间,
 You need: focus, perseverance, imagination and lucky :D 
 
 ### The Game Features
-1. **No ads**, all troubles will be gone
+1. **No ads[Pro]**, all troubles will be gone
 2. Game is very simple and easy，it is good helper when you leisure time or gatherings of friends and family  
 3. Original reset the progress bar of the game, so you'll never misuse and so much fun ~
 4. iPhone(or iPad) captures share on social networking websites, make you invincible
@@ -42,7 +41,7 @@ You need: focus, perseverance, imagination and lucky :D
 你需要：专注，毅力，想象力 和 一点运气  :D
 
 ### 游戏特色
-1. **没有广告**，让你免去一切烦恼
+1. **没有广告[Pro]**，让你免去一切烦恼
 2. 游戏简单轻松，是你休闲娱乐打发时间 或是 和亲朋好友聚会的好帮手
 3. 独创重置游戏的进度条方式，让你永远不会误操作，而且那么有趣～
 4. 手机截图分享到社交网站，让你所向披靡
