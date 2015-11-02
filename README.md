@@ -7,6 +7,11 @@
 
 **3S (Pro or Free) app 技术支持。有任何问题，请使用右边菜单 "Issues" 留言。** 
 
+**Download:**  
+Free: [ 3S - Free - Real 3.000 seconds, can you?](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1050404754&mt=8)
+
+Pro: [3S - Pro - Real 3.000 seconds, can you?](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1049638944&mt=8)
+
 **Keywords:**  
 boring, kill time, party,simple, play,race, focus, 有趣, 无聊, 打发时间, 聚会, 玩乐, 简单, 专注, 毅力, 想象力, 竞赛 ,运气
 
